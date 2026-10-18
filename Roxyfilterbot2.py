@@ -24,7 +24,7 @@ API_HASH = "cfeaa1637b54e9e321b458790b915ee4"
 BOT_TOKEN = "8556509637:AAG_bxAKxGiBNeZPytsbBV4w20X9abCSPpA"
 ADMIN_ID = 8302055186
 OTHER_ADMINS = [8342566909, 0000000000]
-MONGO_URL = "mongodb+srv://damayantipalaka18_db_user:RRNwXHyqqAxwqLlJ@cluster0.kviq532.mongodb.net/?appName=Cluster0"
+MONGO_URL = "mongodb+srv://masterbotcenter_db_user:@roxybotuser.ucjt1bs.mongodb.net"
 
 # NEW: Logs Channel
 LOGS_CHANNEL = -1003206187926  # Apna private channel ID yahan dalo
