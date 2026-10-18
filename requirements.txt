@@ -1,0 +1,6 @@
+
+pyTelegramBotAPI
+pymongo
+psutil
+requests
+dnspython
