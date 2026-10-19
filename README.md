@@ -34,8 +34,7 @@ RoxyFilterBot/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-
+git clone [https://github.com/masterbotcenter-del/Roxybot.git]
 Replace "YOUR_USERNAME" and "YOUR_REPOSITORY" with your GitHub username and repository name.
 
 2. Open the project directory
