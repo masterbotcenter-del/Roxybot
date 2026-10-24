@@ -21,8 +21,8 @@ logger = logging.getLogger(__name__)
 # Configuration (kept from your original)
 API_ID = 27060347
 API_HASH = "cfeaa1637b54e9e321b458790b915ee4"
-BOT_TOKEN = "8556509637:AAG_bxAKxGiBNeZPytsbBV4w20X9abCSPpA"
-ADMIN_ID = 8302055186
+BOT_TOKEN = "8820929016:AAF3uOo7MbbRkRi_bVTgF7lBi0BTrPetaKU"
+ADMIN_ID = 8302055
 OTHER_ADMINS = [8342566909, 0000000000]
 MONGO_URL = "mongodb+srv://masterbotcenter_db_user:@roxybotuser.ucjt1bs.mongodb.net"
 
